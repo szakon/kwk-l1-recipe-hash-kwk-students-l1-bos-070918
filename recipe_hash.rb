@@ -14,17 +14,7 @@
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
 perfect_10_recipe = {
-:almond_flour => "2 cups",
-:gluten_free_whole_oats => "1 cup",
-:kosher_salt => "1/2 tea spoon",
-:baking_powder => "1/2 tea spoon",
-:baking_soda => "1/4 tea spoon",
-:xanthan_Gum => "1/2 tea spoon",
-:slivered_almonds => "1/4 cup",
-:mini_dark_chocolate_chips => "3/4 cup",
-:olive_oil => "1/2 cup",
-:agave => "1/4 cup"
-}
+:almond_flour => "2 cups", :gluten_free_whole_oats => "1 cup", :kosher_salt => "1/2 tea spoon", :baking_powder => "1/2 tea spoon", :baking_soda => "1/4 tea spoon", :xanthan_Gum => "1/2 tea spoon", :slivered_almonds => "1/4 cup", :mini_dark_chocolate_chips => "3/4 cup", :olive_oil => "1/2 cup", :agave => "1/4 cup"}
 
 
 
@@ -33,6 +23,11 @@ perfect_10_recipe = {
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
+  
+  
+  
+  
+  
 end
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
